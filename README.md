@@ -1,2 +1,2 @@
-# rail-fence
-File Encryption and Decryption using Rail Fence
+# File Encryption and Decryption using Rail Fence
+Built with help from the Internet.
